@@ -1,8 +1,8 @@
 # Traveling-Salesman-Problem-Using-Genetic-Algorithm
- Find the shortest path that passes through all cities using Generic Algorithm
 
-Developed an app that solves the Traveling Salesman Problem using Python and Genetic Algorithm.<br />
-• Responsible for developing Crossover and Mutation algorithms for the Generic Algorithm.<br />
-• Applied One Point Crossover to produce children without repetition and Insertion Mutation to introduce completely new children.<br />
-• Applied Recursion in Insertion Mutation method that resulted in a short and easy to read algorithm.<br />
+Developed an app that finds the shortest path to visit all given cities using Python. <br>
+• Responsible for developing partially mapped crossover algorithm and insertion mutation algorithm for 
+genetic algorithm. <br>
+• Applied recursion and code comment to improve algorithm readability. <br>
+• Resulted in an optimal path with the shortest distance with a short and easy to read algorithm. <br>
 
